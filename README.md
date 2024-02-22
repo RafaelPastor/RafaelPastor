@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Pastor 👋
 
-- 🔭 Hoje trabalho com Suporte ao Cliente
-- 🌱 Estudando Python
+- 🔭 Hoje trabalho como Desenvolvedor FullStack
+- 👨‍💻 Principal linguagem: Java - Spring Boot
 - 😄 Pronouns: ele/dele
 
 <div align="center">
