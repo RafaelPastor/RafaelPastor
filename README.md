@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rafael Pastor 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor FullStack
-- 👨‍💻 Principal linguagem: Java - Spring Boot
-- 😄 Pronouns: ele/dele
+- 👨‍💻 Principal linguagem: Java - Spring Boot com AngularJS
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/RafaelPastor/RafaelPastor">
