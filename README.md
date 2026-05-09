@@ -1,14 +1,11 @@
 ### Olá! Eu sou o Rafael Pastor 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor Java
-- 👨‍💻 Principal linguagem: Java - Spring Boot
-- 😄 Pronomes: ele/dele
+- 💼 **Perfil:** Desenvolvedor Backend focado em construir sistemas escaláveis e resilientes.
+- 👨‍💻 **Stack Principal:** Java, Spring Boot, Mensageria, Bancos de Dados Relacionais e Não Relacionais.
+- 🌱 **Foco atual:** Aprofundando em Arquitetura de Software e Sistemas Distribuídos.
+- 🎯 **Objetivo:** Aberto a novos desafios e oportunidades.
+- 😄 **Pronomes:** ele/dele
 
-<div align="center">
-  <a href="https://github.com/RafaelPastor/RafaelPastor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelPastor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>a
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPastor&layout=compact&langs_count=7&theme=dark"/>a
-</div>
 <div style="display: inline_block"><br>
   <kbd>
     <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -20,7 +17,6 @@
   </kbd>
 </div>
   
-  ##
   
 <div style="display: inline_block">
   <a href="https://www.instagram.com/raffa.pastor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
