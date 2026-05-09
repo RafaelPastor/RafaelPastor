@@ -7,7 +7,7 @@
 - 😄 **Pronomes:** ele/dele
 
 <div style="display: inline_block"><br>
-  <kbd>
+  <kbd style="cursor: default">
     <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
