@@ -6,15 +6,15 @@
 - 🎯 **Objetivo:** Aberto a novos desafios e oportunidades.
 - 😄 **Pronomes:** ele/dele
 
-<div style="display: inline_block"><br>
-  <kbd style="cursor: default">
-    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  </kbd>
+<div style="display: inline-block"><br>
+  <kbd style="cursor: default; pointer-events: none;">
+    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Rafa-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  </kbd>
 </div>
   
   
